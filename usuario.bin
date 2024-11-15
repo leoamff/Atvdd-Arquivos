@@ -1,0 +1,5 @@
+typedef struct {
+    int id;                
+    char title[50];        
+    char genre[20];        
+} Video;
